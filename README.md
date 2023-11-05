@@ -1,8 +1,8 @@
 # Hi there!
 
-#### I'm Maria and I am a self-taught Python/C++/Go Developer with 5 years’ of practical experience in software development, data analysis, and task automation.
+**I'm Maria and I am a self-taught Python/C++/Go Developer with 5 years’ of practical experience in software development, data analysis, and task automation.**
 
-#### From Rocks to Code: My huge passion for programming made me convert from geoscientist to a software developer, and I never regret it for even a second! 🚀
+**From Rocks to Code: My huge passion for programming made me convert from geoscientist to a software developer, and I never regret it for even a second! 🚀**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-lineva/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Maria_Lineva)
