@@ -1,4 +1,4 @@
-# Hi there!
+## Hi there!
 
 **I'm Maria and I am a self-taught Python/C++/Go Developer with 5 years’ of practical experience in software development, data analysis, and task automation.**
 
