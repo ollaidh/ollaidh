@@ -1,6 +1,6 @@
 ## Hi there!
 
-**I'm Maria and I am a self-taught Python/C++/Go Developer with 5 years’ of practical experience in software development, data analysis, and task automation.**
+**I'm Maria and I am a self-taught Python/C++ Developer with 5 years’ of practical experience in software development, data analysis, and task automation.**
 
 **From Rocks to Code: My huge passion for programming made me convert from geoscientist to a software developer, and I never regret it for even a second! 🚀**
 
@@ -30,7 +30,6 @@ Add, store and get statistics/charts on purchases, hosted on Google Cloud.
 ![CMake](https://img.shields.io/badge/CMake-e1587f)
 [![STL](https://img.shields.io/badge/C%2B%2B%20STL-e1587f)](https://en.cppreference.com/w/cpp/header)
 [![GTest](https://img.shields.io/badge/GTest-e1587f)](https://github.com/google/googletest)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-grey)
 ![Software_Design](https://img.shields.io/badge/Software_Design-grey)
 ![unittesting](https://img.shields.io/badge/unittesting-grey)
