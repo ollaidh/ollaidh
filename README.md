@@ -1,6 +1,6 @@
 ## Hi there!
 
-**I'm Maria and I am a self-taught Python/C++ Developer with 5 years’ of practical experience in software development, data analysis, and task automation.**
+**I'm Maria and I am a self-taught Python/C++ Developer with 2+ years of practical experience in software development, data analysis, and task automation.**
 
 **From Rocks to Code: My huge passion for programming made me convert from geoscientist to a software developer, and I never regret it for even a second! 🚀**
 
