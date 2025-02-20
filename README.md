@@ -39,7 +39,6 @@ Add, store and get statistics/charts on purchases, hosted on Google Cloud.
 [![LeetCode](https://img.shields.io/badge/LEETCODE-grey?logo=leetcode&style=for-the-badge)](https://leetcode.com/ollaidh/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/lineva_maria)
 
-![Leetcode](https://leetcard.jacoblin.cool/ollaidh?ext=heatmap)
 
 
 
